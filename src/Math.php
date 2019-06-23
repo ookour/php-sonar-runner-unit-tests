@@ -46,6 +46,21 @@ function add($v1 , $v2)
         return ($v1 + $v2);
     }
 
+function add($v1 , $v2)
+    {
+        return ($v1 + $v2);
+    }
+
+function add($v1 , $v2)
+    {
+        return ($v1 + $v2);
+    }
+
+function add($v1 , $v2)
+    {
+        return ($v1 + $v2);
+    }
+
 /**
  * Simple math class.
  *
@@ -56,9 +71,6 @@ function add($v1 , $v2)
  * @version   Release: 0.5.0
  * @link      http://www.phpundercontrol.org/
  */
-
-
-fargaergaergaergaegaergaegeargreagaergaregaerg
 class PhpUnderControl_Example_Math
 {
     /**
